@@ -13,27 +13,27 @@ The To-Do App is a simple and intuitive Android application designed to help you
 ## Screenshots
 ### Interface
 
- <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ <img src="Screenshot/Interface.jpg" alt="Interface.jpg" width="270" height="540">
  
  ### Adding Task
  
- <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ <img src="Screenshot/add.jpg" alt="add.jpg" width="270" height="540">
  
  ### Scheduled Tasks
  
-<img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+<img src="Screenshot/Task_list.jpg" alt="Task_list.jpg" width="270" height="540">
 
  ### Scheduled Date
  
-<img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+<img src="Screenshot/schedule_date.jpg" alt="Schedule.jpg" width="270" height="540">
 
  ### Notification
  
-<img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+<img src="Screenshot/task_notification.jpg" alt="task_notification.jpg" width="270" height="540">
 
  ### Task Completion
  
- <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ <img src="Screenshot/completion.jpg" alt="completion.jpg" width="270" height="540">
  
 ## Installation
 
@@ -102,7 +102,7 @@ We welcome contributions to improve the app. Please fork the repository and subm
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
 
 
 
