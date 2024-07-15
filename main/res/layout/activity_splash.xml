@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash_activity"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="#03A7FF">
+    <ImageView
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:background="@drawable/microsoft_todo_svgrepo_com"></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/aclonica"
+        android:text="ToDo List"
+        android:textColor="#FFFFFF"
+        android:textSize="35sp" />
+
+
+</LinearLayout>
