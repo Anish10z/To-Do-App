@@ -12,17 +12,29 @@ The To-Do App is a simple and intuitive Android application designed to help you
 - **Alarm Notifications**: Set alarm notifications to remind you of upcoming tasks.
 ## Screenshots
 ### Interface
+
  <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ 
  ### Adding Task
+ 
  <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ 
  ### Scheduled Tasks
+ 
 <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+
  ### Scheduled Date
+ 
 <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+
  ### Notification
+ 
 <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+
  ### Task Completion
+ 
  <img src="screenshots/IMG_20240710_182824.jpg" alt="IMG_20240710_182824.jpg" width="270" height="540">
+ 
 ## Installation
 
 ### Prerequisites
